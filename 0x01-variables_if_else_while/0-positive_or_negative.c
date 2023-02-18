@@ -4,6 +4,7 @@
 
 /**
  * main - prints if the number is positive,negative or  0
+ * Description: This program will assign a random number to the variable n each time it is executed
  * return: Always 0 (Success)
  */
 int main(void)
